@@ -1,6 +1,4 @@
 
-Certainly! Here's a sample README.md for your project:
-
 Meet Landing Page
 This project is a responsive landing page for a fictional group chat application called "Meet". The landing page includes various sections such as a hero image, feature descriptions, and call-to-action buttons.
 
